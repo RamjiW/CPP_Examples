@@ -1,2 +1,2 @@
 # cpp_projects
-Trying C++ project
+C++ project
